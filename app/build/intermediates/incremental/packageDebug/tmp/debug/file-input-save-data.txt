@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Mar 10 12:07:19 CST 2023
+0.base=C\:\\Users\\Antho\\Desktop\\AndroidDev\\Bin-not-Tad, Android Attendance App\\Source Code\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

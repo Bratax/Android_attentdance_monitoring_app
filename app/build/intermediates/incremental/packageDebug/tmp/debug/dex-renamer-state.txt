@@ -1,0 +1,4 @@
+#Fri Mar 10 12:07:18 CST 2023
+base.0=C\:\\Users\\Antho\\Desktop\\AndroidDev\\Bin-not-Tad, Android Attendance App\\Source Code\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
